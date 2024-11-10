@@ -1,6 +1,6 @@
 import pandas as pd
 
-class BookLover:
+class booklover:
     
     # Initializes BookLover with a name, email, favorite genre, and empty book list with num_book = 0
     def __init__(self, name, email, fav_genre):
